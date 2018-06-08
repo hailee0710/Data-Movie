@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://demo.stoppoint.net/movie/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.9.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.8" -->
+<!-- generated-on="12.07.2014 10:00" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://demo.stoppoint.net/movie/</loc>
+		<lastmod>2014-07-12T04:44:41+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 498: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-test/</loc>
+		<lastmod>2014-07-12T04:44:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 495: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-nay-moi-det/</loc>
+		<lastmod>2014-06-21T13:08:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 486: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tieu-diet-ma-soi-werewolf-the-beast-among-us/</loc>
+		<lastmod>2014-06-21T12:58:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 489: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nga-re-tu-than-5/</loc>
+		<lastmod>2012-11-02T11:15:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 484: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nan-nhan-the-victim/</loc>
+		<lastmod>2012-11-02T10:56:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 482: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/quai-vat-duoi-dat/</loc>
+		<lastmod>2012-11-02T10:53:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 333: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/dong-tuoc-dai/</loc>
+		<lastmod>2012-11-02T10:51:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 478: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/lan-que-phuong-2/</loc>
+		<lastmod>2012-11-02T10:48:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 476: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tham-hoa-hat-nhan/</loc>
+		<lastmod>2012-11-02T10:45:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 474: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/gai-trinh-18-tuoi-phim-cap-3/</loc>
+		<lastmod>2012-11-02T10:42:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 472: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/thoa-thuan-the-pact/</loc>
+		<lastmod>2012-11-02T10:41:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 468: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/vu-khi-sieu-hang/</loc>
+		<lastmod>2012-11-02T10:38:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 466: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/muoi-the-legend-of-a-portrait/</loc>
+		<lastmod>2012-11-02T10:31:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 464: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ga-doc-than/</loc>
+		<lastmod>2012-11-02T10:29:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 462: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/banh-da-tang/</loc>
+		<lastmod>2012-11-02T10:27:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 460: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/vo-dang-that-bao-wu-dang/</loc>
+		<lastmod>2012-11-02T10:25:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 458: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/toi-nguoi-may/</loc>
+		<lastmod>2012-11-02T10:22:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 456: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ky-si-bong-dem-tro-lai/</loc>
+		<lastmod>2012-11-02T10:19:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 454: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nhan-ban-recreator/</loc>
+		<lastmod>2012-11-02T10:17:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 451: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/chin-ca-khuc-9-songs/</loc>
+		<lastmod>2012-11-02T10:10:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 449: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/diep-vien-vo-danh/</loc>
+		<lastmod>2012-11-02T10:08:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 447: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/diep-vien-tiger/</loc>
+		<lastmod>2012-11-02T10:06:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 445: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/su-tu-ha-dong-2/</loc>
+		<lastmod>2012-11-02T10:04:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 443: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/than-the-2-jism-2/</loc>
+		<lastmod>2012-11-02T10:02:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 441: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/sung-than-2/</loc>
+		<lastmod>2012-11-02T09:58:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 439: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/doi-tuan-tra-the-watch/</loc>
+		<lastmod>2012-11-02T09:56:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 437: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/xieng-xich-chained/</loc>
+		<lastmod>2012-11-02T09:52:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 435: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/timothy-va-manh-doi-ky-la/</loc>
+		<lastmod>2012-11-02T09:50:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 433: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nguoi-doi-3/</loc>
+		<lastmod>2012-11-02T09:47:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 431: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nam-giu-tinh-yeu/</loc>
+		<lastmod>2012-11-02T09:44:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 429: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/vung-dat-quy-du-bao-thu/</loc>
+		<lastmod>2012-11-02T09:40:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 425: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/song-chi-mot-lan/</loc>
+		<lastmod>2012-11-02T09:34:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 271: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-tan-bach-phat-ma-nu/</loc>
+		<lastmod>2012-10-30T15:43:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 390: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/lan-que-phuong-18-hd/</loc>
+		<lastmod>2012-10-25T08:52:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 375: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/thi-tran-deliverance/</loc>
+		<lastmod>2012-10-12T06:59:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 372: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/giot-mau-ma-ca-rong/</loc>
+		<lastmod>2012-10-12T06:54:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 370: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/thanh-pho-an-thit-nguoi/</loc>
+		<lastmod>2012-10-12T06:42:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 368: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ngoi-nha-cam-lang/</loc>
+		<lastmod>2012-10-12T06:37:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 365: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/the-gioi-ngam/</loc>
+		<lastmod>2012-10-12T06:29:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 361: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tho-san-ma-ca-ro-ng/</loc>
+		<lastmod>2012-10-12T06:23:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 358: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/cai-gia-cua-tu-do/</loc>
+		<lastmod>2012-10-11T12:44:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 35: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/bo-bo-kinh-tam-2011-full-hd/</loc>
+		<lastmod>2012-10-11T12:27:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 39: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/quai-hiep-nhat-chi-mai-hd-2012/</loc>
+		<lastmod>2012-10-11T12:26:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 32: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tien-kiem-ky-hiep-3-full-hd-long-tieng/</loc>
+		<lastmod>2012-10-11T11:45:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 170: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tu-dai-danh-bo-2012/</loc>
+		<lastmod>2012-10-11T11:35:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 174: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/thieu-nien-duong-gia-tuong/</loc>
+		<lastmod>2012-10-11T11:33:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 43: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/hien-vien-kiem-thien-chi-ngan-2012/</loc>
+		<lastmod>2012-10-11T11:33:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 193: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/the-cabin-in-the-woods-2011/</loc>
+		<lastmod>2012-10-11T11:32:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 161: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/dai-mac-dao-hd-2012/</loc>
+		<lastmod>2012-10-11T11:31:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 336: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/gia-dinh-smith/</loc>
+		<lastmod>2012-10-11T11:27:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 339: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/xac-chet-tro-lai/</loc>
+		<lastmod>2012-10-11T11:24:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 282: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ke-la-mat-the-stranger/</loc>
+		<lastmod>2012-09-30T08:42:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 296: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/em-muon-an-keo/</loc>
+		<lastmod>2012-09-30T08:41:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-moi-2009/</loc>
+		<lastmod>2012-09-30T08:39:24+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-moi-2010/</loc>
+		<lastmod>2012-09-30T08:33:02+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-moi-2011/</loc>
+		<lastmod>2012-09-30T08:32:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-moi-2012/</loc>
+		<lastmod>2012-09-30T08:31:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 127: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tien-kiem-ky-hiep-truyen-1-long-tieng/</loc>
+		<lastmod>2012-09-30T05:28:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 236: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tin-nghia-faith/</loc>
+		<lastmod>2012-09-30T05:27:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 278: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-chon-song/</loc>
+		<lastmod>2012-09-26T15:47:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 286: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-boc-lua-fired-up/</loc>
+		<lastmod>2012-09-26T14:36:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 94: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/chuyen-bay-dinh-menh-407-dark-flight-2012/</loc>
+		<lastmod>2012-09-25T10:18:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 213: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/kho-tho-breathless/</loc>
+		<lastmod>2012-09-25T04:16:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 218: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/au-trung-ma/</loc>
+		<lastmod>2012-09-25T04:16:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 249: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ga-kho-nice-guy/</loc>
+		<lastmod>2012-09-25T04:16:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 251: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/toc-do-kinh-hoang/</loc>
+		<lastmod>2012-09-25T04:16:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-bo/</loc>
+		<lastmod>2012-09-14T13:54:27+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-le/</loc>
+		<lastmod>2012-09-14T13:51:26+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 90: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/loi-nguyen-ac-quy-2009/</loc>
+		<lastmod>2012-09-14T08:22:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 82: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tho-san-tien-thuong-bail-enforcers/</loc>
+		<lastmod>2012-09-12T08:40:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/user-online/</loc>
+		<lastmod>2012-09-12T07:37:41+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-au-my/</loc>
+		<lastmod>2012-09-11T12:10:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-viet-nam/</loc>
+		<lastmod>2012-09-11T12:09:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-thai-lan/</loc>
+		<lastmod>2012-09-11T12:08:57+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-han-quoc/</loc>
+		<lastmod>2012-09-11T12:08:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-nhat-ban/</loc>
+		<lastmod>2012-09-11T12:08:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-trung-quoc/</loc>
+		<lastmod>2012-09-11T12:04:45+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 85: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/duong-dua-tu-than-2-death-race-2-2010/</loc>
+		<lastmod>2012-09-05T08:29:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 158: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ao-anh-san-nguoi/</loc>
+		<lastmod>2012-09-04T11:57:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 155: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/dai-chien-hanh-tinh-xanh/</loc>
+		<lastmod>2012-09-04T11:54:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 151: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/thanh-dia/</loc>
+		<lastmod>2012-09-04T11:50:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 146: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tham-sat-tren-tau-vu-tru/</loc>
+		<lastmod>2012-09-04T11:45:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 141: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/no-mau-tra-mau/</loc>
+		<lastmod>2012-09-04T11:38:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-xem-nhieu-nhat/</loc>
+		<lastmod>2012-09-04T07:26:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/tim-kiem-phim/</loc>
+		<lastmod>2012-09-01T12:57:18+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 111: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/chien-ham-battleship-full-hd/</loc>
+		<lastmod>2012-09-01T11:21:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 102: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/di-nhan-5-x-men-5-full-hd/</loc>
+		<lastmod>2012-08-31T10:34:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 98: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ke-san-moi-the-raven-2012/</loc>
+		<lastmod>2012-08-31T10:32:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 78: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nguoi-van-chuyen-1-2002/</loc>
+		<lastmod>2012-08-31T10:10:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 74: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/duong-dua-tu-than-death-race-2008/</loc>
+		<lastmod>2012-08-31T10:06:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/movie/phim-moi-cap-nhat/</loc>
+		<lastmod>2012-08-29T14:48:20+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 11: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/com-hoc-duong-21-jump-street-2012/</loc>
+		<lastmod>2012-08-29T12:25:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 21: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/ngoi-nha-ma-quai-seven-below-2012/</loc>
+		<lastmod>2012-08-29T12:19:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 26: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nha-tro-chet-choc-hostel-part-iii/</loc>
+		<lastmod>2012-08-29T12:17:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 23: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/da-tiec-chet-choc-girls-gone-dead-2012/</loc>
+		<lastmod>2012-08-29T12:13:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 17: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/dong-song-quy-am-the-river-2012/</loc>
+		<lastmod>2012-08-29T12:05:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 13: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/nguoi-bao-ve-kinh-thanh-bulletproof-monk/</loc>
+		<lastmod>2012-08-29T11:59:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/san-tim-kho-bau-treasure-hunt-2012/</loc>
+		<lastmod>2012-08-29T11:53:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/movie/chien-ham-my-vietsub-2012/</loc>
+		<lastmod>2012-08-29T11:46:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
