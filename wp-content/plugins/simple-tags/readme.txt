@@ -1,24 +1,30 @@
 === Simple Tags ===
-Contributors: momo360modena
+
+Contributors: momo360modena, rahe, beapi, nicolaskulka
 Donate link: http://beapi.fr/donate/
 Tags: tag, posts, tags, admin, administration, tagging, navigation, terms, taxonomy
 Requires at least: 3.3
-Tested up to: 3.5.1
-Stable tag: 2.3.2
+Tested up to: 4.9
+Stable tag: 2.4.7
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add some tools for taxonomies : Terms suggestion, Mass Edit Terms, Auto link Terms, Ajax Autocompletion, Click Terms, Auto terms, Advanced manage terms, Advanced Post Terms, Related Posts by Terms, etc.
+Extended Tagging for WordPress : Terms suggestion, Mass Edit Terms, Auto link Terms, Ajax Autocompletion, Click Terms, Advanced manage terms, etc.
 
 == Description ==
 
-Simple Tags is the successor of Simple Tagging Plugin
+Extended Tagging for WordPress : Terms suggestion, Mass Edit Terms, Auto link Terms, Ajax Autocompletion, Click Terms, Advanced manage terms, etc.
+
+Github project homepage: https://github.com/BeAPI/simple-tags
+
 **This is THE perfect tool to manage perfectly your WP terms for any taxonomy**
 
 It was written with this philosophy : best performances, more secured and brings a lot of new functions
 
-This plugin is developped on WordPress 3.3, with the constant WP_DEBUG to TRUE.
+This plugin is developped on latest WordPress version, with the constant WP_DEBUG to TRUE.
 
 * Administration
-	* Tags suggestion from Yahoo! Term Extraction API, OpenCalais, Alchemy, Zemanta, Tag The Net, Local DB with AJAX request
+	* Tags suggestion from Yahoo! Content Analysis, OpenCalais, Alchemy, Zemanta, Tag The Net, Tag4Site, dataTXT and local terms with AJAX request 
 		* Compatible with TinyMCE, FCKeditor, WYMeditor and QuickTags
 	* tags management (rename, delete, merge, search and add tags, edit tags ID)
 	* **Edit mass tags (more than 50 posts once)**
@@ -37,7 +43,7 @@ And more...
 
 == Installation ==
 
-**Required PHP5.**
+**Required PHP5 or upper.**
 
 The Simple Tags can be installed in 3 easy steps:
 
@@ -49,6 +55,7 @@ The Simple Tags can be installed in 3 easy steps:
 
 = Simple Tags is compatible with which WordPress versions ? =
 
+* 2.4 and upper are compatible only with WordPress 4.x !
 * 2.3 and upper are compatible only with WordPress 3.5 !
 * 2.0 and upper are compatible only with WordPress 3.0 & 3.1 & 3.2 & 3.3 !
 * 1.7 and upper are compatible only with WordPress 2.8, 2.9 !
@@ -62,10 +69,46 @@ The Simple Tags can be installed in 3 easy steps:
 3. Autotagging your content !
 4. Add tags easily with click tags !
 3. To help you to add easily tags, Simple Tags has an autocompletion script. When you begin to tape a letter or more, a list a tags appears : you have only to choose ! You can choose the down direction to see all the tags.
-6. You also can suggest tags from lot's of service (Yahoo! Term Extraction API, OpenCalais, Alchemy, Zemanta, Tag The Net, Local DB)
+6. You also can suggest tags from lot's of service (Yahoo! Content Analysis, OpenCalais, Alchemy, Zemanta, Tag The Net, Tag4Site, dataTXT and local terms)
 
 == Changelog ==
 
+* Version 2.4.7
+    * Compatibility WP 4.8
+    * Fix bug for self-closing tags (https://github.com/BeAPI/simple-tags/pull/67)
+    * Updated spanish translation (https://github.com/BeAPI/simple-tags/pull/73)
+    * Fix WPalchemy suggestion for latest API version
+    * Code refactoring for JS tags suggest
+    * Fix JS bug with tabs and firefox (https://github.com/BeAPI/simple-tags/issues/58)
+    * Fix autolinks for "number tags" / only numeric characters term (https://github.com/BeAPI/simple-tags/issues/72)
+    * Add "access token" field settings for Dandelion suggestion API
+    * Improve "proxem" error message
+* Version 2.4.6
+    * Compatibility WP 4.5
+* Version 2.4.5
+    * Add shortcode [st-the-tags] and [st_the_tags]
+    * Fix array_flip wp_get_object_terms
+* Version 2.4.4
+    * Fix error upload WordPress.org
+* Version 2.4.3
+    * Fix metabox title WP 4.4
+* Version 2.4.2
+    * Make tags all same count mid-sized (pull request #29) (from Github contribution Sophist-UK)
+    * Fix options Advanced Usage on widgets (pull request #28) (from Github contribution Sophist-UK)
+* Version 2.4.1
+	* Fix possible warning with preg_match function
+	* Specify user-agent for some provider
+* Version 2.4
+    * Test OK vs WP 4.0.x
+    * Fix Yahoo terms suggestion (use new API)
+    * Fix conflict with ShareThis plugin
+    * Add option for autolink title attribute
+    * Add current state for "click tags" feature (opacity changed if tags is already selected)
+    * Fix order by tag cloud
+    * Implement dataTXT provider for suggest terms feature (from Github contribution SpazioDati/master)
+    * Implement Tag4Site provider for suggest terms feature (from Sergey Zobin)
+    * Fix shortcode usage with &
+    * Add support of category name into tag cloud function
 * Version 2.3.2
 	* Move all get_option request into plugin class, use static
 	* Add option for limit autolinks to singular view (default setting, you need change this setting in DB for enable autolinks into all views)

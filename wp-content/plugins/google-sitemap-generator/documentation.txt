@@ -1,7 +1,7 @@
 ﻿Google XML Sitemaps Generator for WordPress
 ==============================================================================
 
-This generator will create a sitemaps.org compliant sitemap of your WordPress blog.
+This generator will create a sitemaps.org compliant sitemap of your WordPress site.
 Currently homepage, posts, static pages, categories, archives and author pages are supported.
 
 The priority of a post depends on its comments. You can choose the way the priority
@@ -306,6 +306,12 @@ Release History:
                       Removed WordPress version from the sitemap
                       Corrected link to WordPress privacy settings
                       Changed hook which is being used for sitemap pings
+2014-09-02     4.0.7.1Added icon for the new WP Add-Plugin page
+                      Changed "Tested up to" to 4.0
+2014-11-15     4.0.8  Fixed bug with excluded categories, thanks to Claus Schöffel!
+2017-03-22     4.0.9  Fixed security issue with donation submission.
+
+
 
 
 Todo:
@@ -315,7 +321,7 @@ Todo:
 
 License:
 ==============================================================================
-Copyright 2005 - 2014 ARNE BRACHHOLD  (email : himself - arnebrachhold - de)
+Copyright 2005 - 2017 ARNE BRACHHOLD  (email : himself - arnebrachhold - de)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
